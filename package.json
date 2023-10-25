@@ -1,0 +1,21 @@
+{
+  "name": "mi-agencia-publicidad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "axios": "^1.5.1",
+    "express": "^4.18.2",
+    "tough-cookie": "^4.1.3",
+    "truffle-hdwallet-provider": "^1.0.6",
+    "uuid": "^9.0.1",
+    "web3": "^4.2.1"
+  }
+}

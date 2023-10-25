@@ -1,0 +1,32 @@
+[
+  {
+    "constant": true,
+    "inputs": [],
+    "name": "getHistoria",
+    "outputs": [
+      {
+        "name": "",
+        "type": "string"
+      }
+    ],
+    "payable": false,
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "constant": false,
+    "inputs": [
+      {
+        "name": "_nuevaHistoria",
+        "type": "string"
+      }
+    ],
+    "name": "setHistoria",
+    "outputs": [],
+    "payable": false,
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
+
+
